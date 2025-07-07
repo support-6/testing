@@ -66,8 +66,8 @@
     "prefer-stable": true,
     "repositories": [
         {
-            "type": "path",
-            "url": "packages/testing/TestPackage"
+            "type": "vcs",
+            "url": "https://github.com/support-6/testing"
         }
     ]
 }
